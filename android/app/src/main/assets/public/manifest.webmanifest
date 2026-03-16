@@ -1,0 +1,1 @@
+{"name":"MX Music Player","short_name":"MX Music","description":"A simple and powerful local music player","start_url":"/","display":"standalone","background_color":"#12161e","theme_color":"#12161e","lang":"en","scope":"/","icons":[{"src":"icon.svg","sizes":"192x192 512x512","type":"image/svg+xml","purpose":"any maskable"}]}
